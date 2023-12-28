@@ -1,2 +1,2 @@
 System.Console.WriteLine("Hello World");
-bkejds
+System.Console.Log("Error:");
